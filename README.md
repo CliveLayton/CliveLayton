@@ -9,7 +9,7 @@ I'm learning C# with Unity since 2022. Mostly worked on 2D projects, but I'm up 
 *   🌍  I'm based in Germany
 *   🖥️  See my portfolio at [SpeckmannPortfolio](http://moritzspeckmann.wixsite.com/speckmannportfolio)
 *   ✉️  You can contact me at [hersh.layt@gmail.com](mailto:hersh.layt@gmail.com)
-*   🚀  I'm currently working on [A Lighthouse Story](http://github.com/JustinH1506/A-Lighthouse-Story-)
+*   🚀  I'm currently working on [Boundary Breaker](https://github.com/CliveLayton/Gang_Breaker)
 *   🧠  I'm learning Unity, C# and Photoshop
 *   🤝  I'm open to collaborating on creating games with others
 *   ⚡  I like all kind of genres. I am a big fan of the Professor Layton series
