@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moritz Speckmann
 ========================================================================================================================================
 
-Gameplay Programmer, UI/UX Designer
+Gameplay Programmer, Game Designer
 -----------------------------------
 
 I'm learning C# with Unity since 2022. Mostly worked on 2D projects, but I'm up to learn more about 3D. I'll also taking my time to learn more about other programms like Godot and UnrealEngine too, because I like to learn more about them with new languages like C++ etc. I'm also interested in game design in general.
