@@ -14,9 +14,8 @@ I'm learning C# with Unity since 2022. Mostly worked on 2D projects, but I'm up 
 *   🤝  I'm open to collaborating on creating games with others
 *   ⚡  I like all kind of genres. I am a big fan of the Professor Layton series
   
-  <a href="https://www.x.com/Clive_Okumura" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Clive_Okumura?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.twitch.tv/clivelayton" target="_blank" rel="noreferrer"><img
+  <a
+               /></a><a href="https://www.twitch.tv/clivelayton" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/clivelayton?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills 
